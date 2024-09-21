@@ -1,0 +1,12 @@
+Once time whenever new laptop purchase
+step1: git software download (https://git-scm.com/download/win)
+step2: new or existing folder cmd / terminal
+step3: > git config --global user.name "MuzammilSheikh786"
+step4: > git config --global user.email "muzammil26122004@gmail.com
+
+Every new project
+step5: > git init
+
+Every New Changes
+step6: git add -A
+step7: > git add commit -m "my project"
